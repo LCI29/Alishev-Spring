@@ -5,6 +5,7 @@ import ru.alishev.springcourse.models.Person;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Predicate;
 
 @Component
 public class PersonDAO {
@@ -32,5 +33,15 @@ public class PersonDAO {
     public void save(Person person) {
         person.setId(++PEOPLE_COUNT);
         people.add(person);
+    }
+
+    public void update(int id, Person person) {
+        Person personToBeUpdated = show(id);
+        personToBeUpdated.setName(person.getName());
+
+    }
+
+    public void delete(int id) {
+        people.removeIf(person -> person.getId() == id);
     }
 }
