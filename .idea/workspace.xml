@@ -9,10 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99c276c6-b173-491a-a47e-aa26ecc8c822" name="Changes" comment="L25 start">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="99c276c6-b173-491a-a47e-aa26ecc8c822" name="Changes" comment="L26 start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +189,7 @@
       <workItem from="1711455778316" duration="11355000" />
       <workItem from="1711469792459" duration="2843000" />
       <workItem from="1711692622761" duration="2622000" />
-      <workItem from="1711698341120" duration="3849000" />
+      <workItem from="1711698341120" duration="5934000" />
     </task>
     <task id="LOCAL-00001" summary="L21 completed">
       <option name="closed" value="true" />
@@ -233,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711692646322</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="L26 start">
+      <option name="closed" value="true" />
+      <created>1711704461813</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711704461813</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +262,7 @@
     <MESSAGE value="L23 completed" />
     <MESSAGE value="L24 start" />
     <MESSAGE value="L25 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="L25 start" />
+    <MESSAGE value="L26 start" />
+    <option name="LAST_COMMIT_MESSAGE" value="L26 start" />
   </component>
 </project>
