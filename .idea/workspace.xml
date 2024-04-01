@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99c276c6-b173-491a-a47e-aa26ecc8c822" name="Changes" comment="L27 completed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/BatchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/batch/index.html" afterDir="false" />
+    <list default="true" id="99c276c6-b173-491a-a47e-aa26ecc8c822" name="Changes" comment="L30 completed (Batch update)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" afterDir="false" />
     </list>
@@ -264,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711716738413</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="L30 completed (Batch update)">
+      <option name="closed" value="true" />
+      <created>1711961743523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711961743523</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +296,7 @@
     <MESSAGE value="L26 start" />
     <MESSAGE value="L26 completed" />
     <MESSAGE value="L27 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="L27 completed" />
+    <MESSAGE value="L30 completed (Batch update)" />
+    <option name="LAST_COMMIT_MESSAGE" value="L30 completed (Batch update)" />
   </component>
 </project>
