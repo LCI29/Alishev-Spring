@@ -9,12 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99c276c6-b173-491a-a47e-aa26ecc8c822" name="Changes" comment="L26 completed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonMapper.java" afterDir="false" />
+    <list default="true" id="99c276c6-b173-491a-a47e-aa26ecc8c822" name="Changes" comment="L27 completed">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/database.propeties.origin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/config/SpringConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +193,7 @@
       <workItem from="1711469792459" duration="2843000" />
       <workItem from="1711692622761" duration="2622000" />
       <workItem from="1711698341120" duration="8303000" />
+      <workItem from="1711957027546" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="L21 completed">
       <option name="closed" value="true" />
@@ -250,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711707162602</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="L27 completed">
+      <option name="closed" value="true" />
+      <created>1711716738413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711716738413</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +284,7 @@
     <MESSAGE value="L25 start" />
     <MESSAGE value="L26 start" />
     <MESSAGE value="L26 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="L26 completed" />
+    <MESSAGE value="L27 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="L27 completed" />
   </component>
 </project>
