@@ -12,7 +12,7 @@ public class Person {
     @Size(min = 2, max = 30, message = "From 2 to 30 characters")
     private String name;
 
-    @Min(value = 0, message = "Only positive")
+    @Min(value = 1, message = "Only positive")
     private int age;
 
     @NotEmpty(message = "Email should not be empty")
